@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/business-website/static/css/main.3c4cfb61.css",
+    "main.js": "/business-website/static/js/main.7512403e.js",
+    "static/js/787.2c37a385.chunk.js": "/business-website/static/js/787.2c37a385.chunk.js",
+    "static/media/bg1.png": "/business-website/static/media/bg1.eec29322654d7efda8c0.png",
+    "static/media/bg3.png": "/business-website/static/media/bg3.1713683459811550bc36.png",
+    "static/media/clip.jpg": "/business-website/static/media/clip.fc85c313d178326599fb.jpg",
+    "static/media/apps.jpg": "/business-website/static/media/apps.2558cce921a1c2bcbdf1.jpg",
+    "static/media/busnisse.jpg": "/business-website/static/media/busnisse.b71c9408a3c362efe01f.jpg",
+    "static/media/bg2.png": "/business-website/static/media/bg2.9c3762726946bb11a848.png",
+    "static/media/computer.jpg": "/business-website/static/media/computer.9e382e6a9f2d82ccde6e.jpg",
+    "static/media/software.jpg": "/business-website/static/media/software.c1d106f23fe197e828c2.jpg",
+    "static/media/beauty.jpg": "/business-website/static/media/beauty.48dc93d507f4b498d000.jpg",
+    "static/media/security.jpg": "/business-website/static/media/security.0f4bb86f3b062421d313.jpg",
+    "index.html": "/business-website/index.html",
+    "main.3c4cfb61.css.map": "/business-website/static/css/main.3c4cfb61.css.map",
+    "main.7512403e.js.map": "/business-website/static/js/main.7512403e.js.map",
+    "787.2c37a385.chunk.js.map": "/business-website/static/js/787.2c37a385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c4cfb61.css",
+    "static/js/main.7512403e.js"
+  ]
+}
