@@ -1,4 +1,5 @@
 {
+  "homepage": "https://faisal795.github.io/business-website",
   "name": "business-website",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +10,7 @@
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.0.0-alpha1",
+    "gh-pages": "^3.2.3",
     "material-icons-react": "^1.0.4",
     "react": "^17.0.2",
     "react-bootstrap-v5": "^1.4.0",
@@ -18,6 +20,8 @@
     "web-vitals": "^2.1.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
